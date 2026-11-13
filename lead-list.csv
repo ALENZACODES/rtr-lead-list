@@ -1,0 +1,26 @@
+rank,company,domain,segment,icp_fit,signal,signal_date,signal_source
+1,Paramount Commerce,paramountcommerce.com,Pay by bank payment service provider,Moves money between bank accounts for merchants,Live on Real-Time Rail at launch; says merchants get 24/7 settlement and proactive fraud defence,2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+2,Digital Commerce Bank (DCBank),dcbank.ca,Bank serving fintechs and corporate clients,Runs payment services for other fintechs,Live on Real-Time Rail at launch; CEO says its fintech clients can now offer faster ways to move money,2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+3,KOHO,koho.ca,Digital first consumer financial app,Consumer accounts funded from other banks,Live on Real-Time Rail at launch (listed as The future KOHO Bank),2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+4,Questbank (Questrade Financial Group),questrade.com,New banking entity of Questrade Financial Group,Consumer accounts funded from other banks,Live on Real-Time Rail at launch,2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+5,Wealthsimple,wealthsimple.com,Digital first investing and chequing,Consumer and business accounts funded from other banks,Live on Real-Time Rail at launch and plans instant payment features in 2027; also agreed a funding round of up to $425 million on Oct 27 2026,2026-11-09,https://newsroom.wealthsimple.com/wealthsimple-among-first-financial-institutions-to-bring-canadas-real-time-rail-to-market
+,Peoples Trust Company,peoplestrust.com,Trust company and fintech sponsor,Fits; cut from top five because it joined as settlement agent first and plans direct participation later,Settlement agent at Real-Time Rail launch,2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+,DoBusiness.com,dobusiness.com,Business payments,Fits; cut from top five because it already offers account verification before money moves,Live on Real-Time Rail at launch,2026-11-09,https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+,EQ Bank,eqbank.ca,Digital bank,Fits,,,
+,Tangerine,tangerine.ca,Digital bank,Fits,,,
+,Simplii Financial,simplii.com,Digital bank,Fits,,,
+,Neo Financial,neofinancial.com,Digital first credit and savings,Fits,,,
+,Home Trust,hometrust.ca,Deposit taking lender,Fits,,,
+,Wave Financial,waveapps.com,Small business software and payments,Fits,,,
+,Float Financial,floatfinancial.com,Business spend and corporate cards,Fits,,,
+,Venn,venn.ca,Business banking,Fits,,,
+,Loop,bankonloop.com,Business banking,Fits,,,
+,Plooto,plooto.com,Business payments,Fits,,,
+,Zum Rails,zumrails.com,Payments API,Fits,,,
+,Helcim,helcim.com,Merchant payments,Fits,,,
+,Moneris,moneris.com,Merchant payments,Fits,,,
+,Nuvei,nuvei.com,Payments platform,Fits,,,
+,Mogo,mogo.ca,Digital financial services,Fits,,,
+,Borrowell,borrowell.com,Credit scores and reports,Fits,,,
+,Fairstone,fairstone.ca,Consumer lender,Fits; funds loans into borrower bank accounts,,,
+,Propel Holdings,propelholdings.com,Online consumer lender,Fits; funds loans into borrower bank accounts,,,
