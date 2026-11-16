@@ -18,3 +18,15 @@ Clay search prompt, filters and list name: [clay-inputs.md](clay-inputs.md)
 Main source: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
 
 Built by John Khan, ALENZA CODES, Toronto, Ontario. Public information only; no one on this list has been contacted.
+
+## Project structure
+
+```text
+rtr-lead-list/
+├── clay-inputs.md  # Clay inputs
+├── cover.png       # Cover image
+├── lead-list.csv   # Ranked list as data
+├── lead-list.md    # Ranked list with notes
+├── lead-list.pdf   # PDF copy
+└── README.md       # This file
+```
